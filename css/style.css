@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.473);
+    margin: 0;
+    color: white;
+}
